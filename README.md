@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) system for legal_law documents, designed 
 ![License](https://img.shields.io/github/license/yourusername/saudi-legal-rag-system)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
-## 🔍 Overview
+ ## 🔍 Overview
 
 This system uses LangChain, OpenAI embeddings, and FAISS vector database to implement a RAG pipeline that can:
 
