@@ -188,7 +188,7 @@ def chunk_documents(documents):
     
     return chunks
 
-# ------------------ Embedding & FAISS ------------------
+# ------------------ Embedding & FAISS -------------------
 
 def create_vector_store(chunks):
     try:
