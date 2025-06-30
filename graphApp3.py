@@ -19,7 +19,7 @@ from langgraph.graph import END, StateGraph
 DOCUMENTS_FOLDER = r"C:\Users\Administrator\Downloads\law_docs"
 FAISS_INDEX_PATH = "faiss_index"
 LOG_FILE = "legal_rag_log.txt"
-MAX_FILE_SIZE_MB = 50  # Maximum file size in MB
+MAX_FILE_SIZE_MB = 50   # Maximum file size in MB
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 100
 RETRIEVAL_TOP_K = 3  # Number of documents to retrieve
