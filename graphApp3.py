@@ -25,7 +25,7 @@ CHUNK_OVERLAP = 100
 RETRIEVAL_TOP_K = 3  # Number of documents to retrieve
 EMBEDDING_MODEL = "text-embedding-3-large"
 LLM_MODEL = "gpt-4o"
-CACHE_EXPIRY = 3600  #Cache expiry in seconds
+CACHE_EXPIRY = 3600  # Cache expiry in seconds
 
 LEGAL_SYSTEM_PROMPT = """
 You are a Legal AI Assistant providing information based on legal documents. 
