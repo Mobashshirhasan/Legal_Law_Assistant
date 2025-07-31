@@ -14,7 +14,7 @@ from langchain_openai.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage, SystemMessage, Document
 from langgraph.graph import END, StateGraph
 
-# ------------------ Config --------------------  
+#  ------------------ Config --------------------  
 
 DOCUMENTS_FOLDER = r"C:\Users\Administrator\Downloads\law_docs"
 FAISS_INDEX_PATH = "faiss_index"
