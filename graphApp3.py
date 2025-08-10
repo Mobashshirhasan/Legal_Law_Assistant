@@ -3,7 +3,7 @@ import logging
 import time
 import threading
 from datetime import datetime
-from typing import TypedDict, List, Optional, Dict, Any 
+from typing import TypedDict, List, Optional, Dict, Any  
 
 import pdfplumber
 import docx2txt
@@ -481,5 +481,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
